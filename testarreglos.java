@@ -9,5 +9,6 @@ public class testarreglos
         arreglo = new int[5];
         arreglo2 = arreglo;
         arreglo[2]=50;
+        
     }
 }
